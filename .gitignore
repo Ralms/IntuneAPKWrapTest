@@ -67,8 +67,6 @@ fastlane/readme.md
 
 # previously created by Android Studio*.iml
 /local.properties
-/.idea/caches
-/.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml

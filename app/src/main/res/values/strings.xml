@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shared Preferences Repro</string>
+    <string name="flagName">buttonFlag</string>
+</resources>
